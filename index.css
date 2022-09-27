@@ -1,0 +1,42 @@
+.navbar{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.banner-image{
+    background-image: url("picture/Header_Image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 130vh;
+}
+
+.button-center {
+    padding-top: 30rem;
+}
+
+.title{
+    margin-top: 150px;
+    font-size: 65px;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+h1{
+    font-family: 'Crimson Text', serif;
+}
+
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.text-footer{
+    font-family: 'Crimson Text', serif;
+}
+
+.bg-secondary{
+    opacity: 0.9;
+    margin-bottom: 10rem;
+}
